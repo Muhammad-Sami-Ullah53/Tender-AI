@@ -1,4 +1,0 @@
-streamlit
-pymupdf
-scikit-learn
-google-genai
