@@ -1,0 +1,13 @@
+<<<<<<< HEAD
+streamlit
+pymupdf
+scikit-learn
+google-genai
+=======
+streamlit
+PyMuPDF
+scikit-learn
+google-genai
+python-dotenv
+pydantic
+>>>>>>> cd53c58 (Adding initial files)
